@@ -190,6 +190,8 @@ The Reworking phase. The period in which every problem with your original design
 
 The second work phase was everything up until Documentation began and there isn't much else to say about it. I finished the wiring with minimal effort and a few quick hotfixes. The code took much longer and I did have some unproductive days but in end I completed it all with plenty of time to spare. Everytime I asked Asher how he was doing, he said he said he was doing good so I can only assume things were going well on his end. This was simply an extended period of time involving constant work.
 
+The final stage of the project was the Documentation. This could be considered the most important part of the entire project. In the field of Engineering a breakthrough is only as useful as the notes detailing how to replicate its success. This of course means that I made it my goal to be as detailed and through as possible with the documentation. I wanted to be sure to include everything that was required, especially since the incomplete state of our project automatically meant we would be marked down a few notches. Thankfully, I was able to complete everything before time ran out and i'm rather proud with what I ended up with. At the end of the day I learned quite a few things from this experience and deep down I think that's what ultimately matters. This truely was the largest engineering project i've ever tackled so far, spanning well over an entire semester, and as always the blood, sweat, and tears that went into this project were well worth the satisfaction that came at the light at the end of the tunnel.
+
 ### Asher Marini
 Sample text
 
@@ -217,7 +219,14 @@ Pain, Sweat, and Tears - Jude Moran
 
 Credits - Jude Moran
 
+### Acknowledgement
+This was my last engineering project being taught under Mr Miller. From that very fact I do feel a touch of sadness both now and in future times when i'm certain my nostalgia pushes me to reread my old writings for projects such as these. Mr Miller both now is and i'm sure later on still will be a wonderful teacher and I appreciate everything he taught me. I remember everytime he helped me through my struggles when there was something I didn't understand. Though I have taken other computer based courses prior to my highschool year, Mr Miller was my first actual Engineering teacher (not to discredit those other classes and teachers of course). This was a good last project for Engineering 3 and a good last project to end my junior year. Many times in this class and both Engineering classes prior I found myself being reminded why I chose the path of Engineering. To create, and to find people who shared that same love of creation. I'm proud to say i'm an engineering student.
+
+Thank you for all you've done for me Mr Miller
+
+Your student both now and forever - Jude Moran
+
 ### Conclusion
 This concludes the documentation of our 2023-2024 Engineering 3 project
 
-Thank you for reading - Jude Moran
+Thank you for reading
