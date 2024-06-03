@@ -153,6 +153,15 @@ while True:
     time.sleep(0.5)
 ```
 ### Onshape Model Pictures
+![Screenshot (22)](https://github.com/jmoran40/ClawProject/assets/143545030/4a12cbce-0d38-48ec-8cb6-340187638863)
+![Screenshot (23)](https://github.com/jmoran40/ClawProject/assets/143545030/0713f654-e45a-4188-b544-e41c18aef9c3)
+![Screenshot (24)](https://github.com/jmoran40/ClawProject/assets/143545030/a1729614-914b-419c-8978-49ca2060df27)
+![Screenshot (25)](https://github.com/jmoran40/ClawProject/assets/143545030/4ee11b1f-a048-4d1c-98b5-db98c2b7e886)
+![Screenshot (26)](https://github.com/jmoran40/ClawProject/assets/143545030/12f55829-da31-4a75-81a7-d306e8b41ba5)
+![Screenshot (27)](https://github.com/jmoran40/ClawProject/assets/143545030/c614578f-150a-407c-82b9-91e4518b2e23)
+![Screenshot (28)](https://github.com/jmoran40/ClawProject/assets/143545030/fc2780c5-9c88-4b53-a68a-ed9d9fd5f9f9)
+![Screenshot (29)](https://github.com/jmoran40/ClawProject/assets/143545030/a4ebf086-a592-4ce1-b85c-bfaf792ebf1a)
+![Screenshot (30)](https://github.com/jmoran40/ClawProject/assets/143545030/03ba113e-aaf5-489a-b39a-254737deaeea)
 
 ### Photo/Video Evidence
 
